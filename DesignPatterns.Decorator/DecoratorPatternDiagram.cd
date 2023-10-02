@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="DesignPatterns.Decorator.Espresso">
+    <Position X="9.5" Y="4.25" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAIAAAAASAAIAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Espresso.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="DesignPatterns.Decorator.MilkCoffee">
+    <Position X="11.5" Y="7" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAIAAAAAAAAIAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>MilkCoffee.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DesignPatterns.Decorator.CoffeeDecorator">
+    <Position X="11.5" Y="4.25" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAAAAAAAAAIAAAAASAAIAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CoffeeDecorator.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Interface Name="DesignPatterns.Decorator.ICoffee">
+    <Position X="9.5" Y="1.75" Width="3.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAIAAAAASEAIAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ICoffee.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
