@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Class Name="DesignPatterns.Factory.CreditCardFactory">
+    <Position X="8.25" Y="1.25" Width="3.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CreditCardFactory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DesignPatterns.Factory.Credobank" BaseTypeListCollapsed="true">
+    <Position X="11.5" Y="4.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Credobank.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="1.217" Collapsed="true" />
+  </Class>
+  <Class Name="DesignPatterns.Factory.Monobank" BaseTypeListCollapsed="true">
+    <Position X="5.75" Y="4.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Monobank.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="1.133" Collapsed="true" />
+  </Class>
+  <Class Name="DesignPatterns.Factory.Privatbank" BaseTypeListCollapsed="true">
+    <Position X="8.5" Y="4.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Privatbank.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="1.083" Collapsed="true" />
+  </Class>
+  <Interface Name="DesignPatterns.Factory.ICreditCard">
+    <Position X="8.5" Y="2.75" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ICreditCard.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Enum Name="DesignPatterns.Factory.CreditCardType">
+    <Position X="11.75" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAgAAAAAAAAAAAAAAACAAAAAAAAEAAAAAAAA=</HashCode>
+      <FileName>CreditCardType.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
