@@ -2,3 +2,4 @@
 ### • Adapter Pattern
 ### • Decorator Pattern
 ### • Factory Pattern
+### • Factory Method Pattern
