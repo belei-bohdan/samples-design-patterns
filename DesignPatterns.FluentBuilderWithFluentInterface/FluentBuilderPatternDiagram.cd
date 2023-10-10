@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="DesignPatterns.FluentBuilderWithFluentInterface.ConnectionStringBuilder">
+    <Position X="10" Y="5" Width="3.25" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAgAYAAEgAAAABAoAAAAAAGgAQAACAGABCAAAA=</HashCode>
+      <FileName>ImmutableConnStringBuilder.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="DesignPatterns.FluentBuilderWithFluentInterface.MutableConnStringBuilder">
+    <Position X="6.75" Y="5" Width="3" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAgAYAAEgAAAAAAoAAAAAAGgAQAACAGABCAAAA=</HashCode>
+      <FileName>MutableConnStringBuilder.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Interface Name="DesignPatterns.FluentBuilderWithFluentInterface.IWithInitialCatalog">
+    <Position X="6.75" Y="2.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>IWithInitialCatalog.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="DesignPatterns.FluentBuilderWithFluentInterface.IWithAuthentication">
+    <Position X="11.25" Y="2.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAQAAEAAAAAAAAAAAAAAAAAAAAAACAAAAAAA=</HashCode>
+      <FileName>IWithAuthentication.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="DesignPatterns.FluentBuilderWithFluentInterface.IWithOptionalParams">
+    <Position X="9" Y="2.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAACAAABAAAAA=</HashCode>
+      <FileName>IWithOptionalParams.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

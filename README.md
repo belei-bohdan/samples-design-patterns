@@ -5,3 +5,5 @@
 ### • Factory Method Pattern
 ### • Abstract Factory Pattern
 ### • Builder Pattern
+### • Fluent Builder Pattern 
+### • Fluent Interface Pattern
