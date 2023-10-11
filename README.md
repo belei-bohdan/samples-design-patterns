@@ -7,3 +7,4 @@
 ### • Builder Pattern
 ### • Fluent Builder Pattern 
 ### • Fluent Interface Pattern
+### • Composite Pattern

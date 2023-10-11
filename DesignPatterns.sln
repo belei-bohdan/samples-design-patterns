@@ -17,6 +17,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DesignPatterns.Builder", "D
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DesignPatterns.FluentBuilderWithFluentInterface", "DesignPatterns.FluentBuilderWithFluentInterface\DesignPatterns.FluentBuilderWithFluentInterface.csproj", "{5F5719C7-6528-4C0E-91DE-B0CAB886D39A}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DesignPatterns.Composite", "DesignPatterns.Composite\DesignPatterns.Composite.csproj", "{3CA3353F-872C-4D62-8B4E-30B7B0B4B98C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{5F5719C7-6528-4C0E-91DE-B0CAB886D39A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5F5719C7-6528-4C0E-91DE-B0CAB886D39A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5F5719C7-6528-4C0E-91DE-B0CAB886D39A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3CA3353F-872C-4D62-8B4E-30B7B0B4B98C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3CA3353F-872C-4D62-8B4E-30B7B0B4B98C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3CA3353F-872C-4D62-8B4E-30B7B0B4B98C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3CA3353F-872C-4D62-8B4E-30B7B0B4B98C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
